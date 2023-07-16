@@ -1,6 +1,6 @@
 # Music_player
 
-My #task3 is to create a music player by using HTML, CSS and Javascript, as i am intern in @Sync Intern as a fronted web developer.
+My #task3 is to create a music player by using HTML, CSS and Javascript, as i am intern in @Sync Intern as a frontend web developer.
 I have created a music player in which I have added 6 songs. I have added three theme bacground for music player. 
 
 # Screenshots
